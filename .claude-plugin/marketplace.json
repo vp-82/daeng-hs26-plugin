@@ -1,0 +1,15 @@
+{
+  "name": "daeng-hs26",
+  "owner": {
+    "name": "ZHAW School of Management and Law",
+    "email": "vaclav.pechtor@zhaw.ch"
+  },
+  "plugins": [
+    {
+      "name": "daeng",
+      "source": "./plugins/daeng",
+      "description": "Conventions and grain checks for the DAENG GTFS data product.",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "daeng",
+  "version": "1.0.0",
+  "description": "Conventions and grain checks for the DAENG GTFS data product.",
+  "author": { "name": "Vaclav Pechtor" }
+}
